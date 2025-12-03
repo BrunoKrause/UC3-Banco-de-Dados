@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<DIAGRAMA ID="1" TIPO="tpConceitual" UniversalUnicID="11B-90-4070-49-62DB-92-58">
+<DIAGRAMA ID="1" TIPO="tpConceitual" UniversalUnicID="707D-EC-E4E8-23-35BA-E2-A8">
     <InfoDiagrama ID="1">
         <Versao Valor="3.2.0"/>
         <Autores/>
@@ -10,7 +10,7 @@
         <Alinhamento_h Valor="60"/>
         <Zoom Valor="100"/>
         <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
-        <Localizacao Left="0" Top="0"/>
+        <Localizacao Left="12" Top="0"/>
         <Realce Valor="false"/>
     </InfoDiagrama>
     <Entidade ID="2">
@@ -68,7 +68,7 @@
     <Relacionamento ID="5">
         <Bounds Height="50" Left="393" Top="170" Width="150"/>
         <DisablePainted Valor="false"/>
-        <Texto>tem</Texto>
+        <Texto>dirige</Texto>
         <Observacao/>
         <Dicionario/>
         <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>

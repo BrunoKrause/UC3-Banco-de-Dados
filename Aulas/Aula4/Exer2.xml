@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<DIAGRAMA ID="1" TIPO="tpConceitual" UniversalUnicID="F8FA-D8-DC9D-80-51CF-6A-DC">
+<DIAGRAMA ID="1" TIPO="tpConceitual" UniversalUnicID="88CA-FA-7663-28-58F4-B0-94">
     <InfoDiagrama ID="1">
         <Versao Valor="3.2.0"/>
         <Autores/>
@@ -68,7 +68,7 @@
     <Relacionamento ID="5">
         <Bounds Height="50" Left="332" Top="108" Width="150"/>
         <DisablePainted Valor="false"/>
-        <Texto>tem</Texto>
+        <Texto>escreve</Texto>
         <Observacao/>
         <Dicionario/>
         <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
